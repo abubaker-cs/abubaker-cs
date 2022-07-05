@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhamadabubaker" target="blank"><img src="https://img.shields.io/twitter/follow/muhamadabubaker?logo=twitter&style=for-the-badge" alt="muhamadabubaker" /></a> </p>
 
-- 🔭 I’m currently working on [MVVM based Android Recipe App](https://github.com/abubaker-cs/FavDish)
+- 🔭 I’m currently working on [Shoes Planet App](https://github.com/abubaker-cs/ShoesPlanet)
 
 - 🌱 I’m currently learning **Android Kotlin Developer Nanodegree by Udacity**
 
