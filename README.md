@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Shoes Planet App](https://github.com/abubaker-cs/ShoesPlanet)
 
-- 🌱 I’m currently learning **Android Kotlin Developer Nanodegree by Udacity**
+- 🌱 I’m currently learning [Android Kotlin Developer Nanodegree by Udacity](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940)
 
 - 👨‍💻 All of my recently UI Designing projects are available at [https://abubaker.org/portfolio.php](https://abubaker.org/portfolio.php)
 
